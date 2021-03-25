@@ -4,6 +4,7 @@
 
 _Objetivos Generales:_
 
+•Identificar terminos claves que se usaran en el transcurso de esta investigación, para una mejor compresión y análisis. 
 
 _Objetivos Específicos:_
 
@@ -12,6 +13,11 @@ _Objetivos Específicos:_
 •	Analizar el concepto de carga reflejada en un transformador.
 
 •	Analizar la igualación de impedancias con transformadores.
+
+• Investigar la relación entre el voltaje de entrada y el de salida con el número de vueltas en el
+primario y secundario del transformador
+
+• Analizar  el funcionamiento del tranformador y su función.
 
 
 
