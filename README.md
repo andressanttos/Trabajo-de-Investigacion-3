@@ -36,6 +36,11 @@ primario y secundario del transformador
 
 ![](https://github.com/andressanttos/Trabajo-de-Investigacion-3/blob/main/img/MARCO%20TEORICO%206.png)
 
+![](https://github.com/andressanttos/Trabajo-de-Investigacion-3/blob/main/img/MARCO%20TEORICO%207.png)
+
+![](https://github.com/andressanttos/Trabajo-de-Investigacion-3/blob/main/img/MARCO%20TEORICO%208.png)
+
+![](https://github.com/andressanttos/Trabajo-de-Investigacion-3/blob/main/img/MARCO%20TEORICO%209.png)
 
 3. Diagramas
 
