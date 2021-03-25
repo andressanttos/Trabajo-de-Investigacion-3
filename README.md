@@ -67,6 +67,7 @@ IGUALACIÓN DE IMPEDANCIA
 
 •	Se conoció que la razón de transformación del voltaje entre el bobinado primario y el segundario depende del número de vueltas que tenga cada uno.
 
+•	Gracias a los transformadores, la distribución de energía eléctrica se ha aprovechado y distribuido desde centrales eléctricas a diferentes ciudades del mundo       
 
 
 
