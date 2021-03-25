@@ -50,6 +50,18 @@ primario y secundario del transformador
 
 3. Diagramas
 
+INDUCTANCIA MUTUA 
+
+![](img/diagrama1.jpg)
+
+TRANSFORMADOR BÁSICO
+
+![](img/diagrama2.jpg)
+
+TRANSFORMADORES ELEVADORES Y REDUCTORES
+
+![](img/diagrama3.jpg)
+
 CARGA DEL DEVANADO SECUNDARIO
 
 ![](https://github.com/andressanttos/Trabajo-de-Investigacion-3/blob/main/img/diagrama%204.png)
