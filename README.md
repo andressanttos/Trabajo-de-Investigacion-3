@@ -30,11 +30,11 @@ primario y secundario del transformador
 
 2. MARCO TEÓRICO
 
-![](img/marco1.1.jpg)
+![](img/marco1.jpg)
 
-![](img/marco1.2.jpg)
+![](img/marco2.jpg)
 
-![](img/marco1.3.jpg)
+![](img/marco3.jpg)
 
 ![](https://github.com/andressanttos/Trabajo-de-Investigacion-3/blob/main/img/MARCO%20TEORICO%204.png)
 
